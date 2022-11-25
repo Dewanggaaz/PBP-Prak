@@ -1,4 +1,5 @@
 # MyViewAndViews
-Fayza Aulia - 24060120120010 
+Dewangga Azharani Zahar
+24060120130068
 Tugas Praktikum 9 
 Praktikum PBP Lab B2
